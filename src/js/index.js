@@ -1,14 +1,12 @@
-const iframe = document.getElementById('video')
-const linkVideo = "https://www.youtube.com/embed/Cb4WV4aXBpk"
+const iframe = document.getElementById('video');
+const linkVideo = "https://www.youtube.com/embed/Cb4WV4aXBpk";
 
 document.querySelector('.botao-trailer').addEventListener('click', () =>{
-    console.log('clicou');
     document.querySelector('.modal').classList.add('aberto')
     iframe.src = linkVideo
-})
+});
 
 document.querySelector('.fechar-modal').addEventListener('click', () =>{
-    console.log('fechou');
     document.querySelector('.modal').classList.remove('aberto')
     iframe.src = ''
-})
+});
