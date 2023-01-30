@@ -1,0 +1,148 @@
+@media(max-width: 1150px){
+    .container .imagem-titulo{
+        max-width: 350px;
+    }
+    
+    .container .descricao{
+        font-size: 15px;
+    }
+    
+    .container .botao-trailer{
+        padding: 15px;
+        font-size: 15px;
+    }
+
+    .container .mario{
+        width: 500px;
+    }
+}
+
+@media(max-width: 900px){
+    .container .imagem-titulo{
+        max-width: 300px;
+    }
+
+    .container .mario{
+        width: 450px;
+    }
+}
+
+@media(max-width: 785px){
+    .cabecalho .logo{
+        width: 50px;
+    }
+
+    .cabecalho nav li a{
+        font-size: 20px;
+    }
+
+    .container .imagem-titulo{
+        max-width: 250px;
+    }
+
+    .container .mario{
+        width: 350px;
+    }
+
+    .container .botao-trailer{
+        padding: 12px;
+        font-size: 15px;
+    }
+
+        /* .fechar-modal {
+        background-color: #ffffff;
+        color: #f03a17;
+        font-weight: bold;
+        font-size: 20px;
+        width: 40px;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 10px;
+    } */
+    
+    .modal iframe {
+        width: 500px;
+        height: 300px;
+    }
+}
+
+@media(max-width: 640px){
+    .cabecalho .logo{
+        width: 40px;
+    }
+
+    .cabecalho nav li a{
+        font-size: 17px;
+    }
+
+    .container .imagem-titulo{
+        max-width: 200px;
+    }
+
+    .container .descricao{
+        font-size: 12px;
+    }
+
+    .container .mario{
+        width: 250px;
+    }
+
+    .modal iframe {
+        width: 370px;
+        height: 220px;
+    }
+}
+
+@media(max-width: 490px){
+    .cabecalho .logo{
+        width: 35px;
+    }
+
+    .cabecalho nav li a{
+        font-size: 15px;
+    }
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .container .informacoes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container .mario{
+        margin-top: 40px;
+        width: 250px;
+    }
+
+    .modal iframe {
+        width: 320px;
+        height: 180px;
+    }
+}
+
+@media(max-width: 330px){
+    .cabecalho .logo{
+        width: 30px;
+    }
+
+    .cabecalho nav li a{
+        padding: 10px;
+        font-size: 12px;
+    }
+
+    .container .mario{
+        width: 220px;
+    }
+
+    .modal iframe {
+        width: 280px;
+        height: 150px;
+    }
+}
