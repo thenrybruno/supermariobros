@@ -79,4 +79,4 @@ Nos próximos projetos na qual estarei trabalhando, continuarei focado em aperfe
 
 ## Agradecimentos
 
-Gostaria de agradecer aos gêmios que se disponibilizaram em realizar essa semana da Mapa Dev Week, e assim proporcionando novos conhecimentos para aqueles que nada sabiam de HTML, CSS e JS, e também para aqueles que já conheciam as mesmas e buscam se aperfeiçoar cada dia mais e mais.
+Gostaria de agradecer aos gêmeos que se disponibilizaram em realizar essa semana da Mapa Dev Week, e assim proporcionando novos conhecimentos para aqueles que nada sabiam de HTML, CSS e JS, e também para aqueles que já conheciam as mesmas e buscam se aperfeiçoar cada dia mais e mais.
